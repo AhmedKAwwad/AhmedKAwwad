@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I start to writeup some CTFs :smile:
+This is the place where I start to writeup some CTFs Writeups :smile:
 
 - 🔭 I’m currently studying Cybersecurity which is really cool :wink:
 - 🌱 I’m currently Communication and Electronic Student.
@@ -27,7 +27,6 @@ This is the place where I start to writeup some CTFs :smile:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 <br />
-
 
 [instagram]: https://instagram.com/ahmed_k_2
 [linkedin]: https://linkedin.com/in/ahmed-k-awwad
