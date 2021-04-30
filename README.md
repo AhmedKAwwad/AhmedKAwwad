@@ -7,9 +7,6 @@ This is the place where I start to writeup some CTFs :smile:
 - 📫 How to reach me: [@Awwad](https://www.facebook.com/ahmedkawwad).
 - ⚡ Fun fact: I :heart: :dog:s
 
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=AhmedKAwwad&hide_title=true&hide_border=true&langs_count=5)
 
 ### Connect with me:
 
