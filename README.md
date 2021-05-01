@@ -10,15 +10,16 @@ This is the place where I start to document some CTFs Writeups 📝
 
 ### 🕷 CTFs WriteUps:
 
-[<img align="left" alt="CTFs | CyberTalents"  width="100px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][CyberTalents WriteUps]
+[<img align="left" alt="CTFs | CyberTalents"  width="90px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][CyberTalents WriteUps]
 
-[<img align="left" alt="CTFs | PicoCTFs" width="100px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]
+[<img align="left" alt="CTFs | PicoCTFs" width="90px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]
 
+<br />
 <br />
 
 
-### 📌Languages and Tools:
-
+### 📌 Languages and Tools:
+ 
 <a href="#"> <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
