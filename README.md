@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I start to document some CTFs Writeups 📝
 
-- 🔭 I’m currently studying Cybersecurity which is really cool :wink:
-- 🌱 I’m currently Communication and Electronic Student.
+- 🥷 I’m currently studying Cybersecurity which is really cool :wink:
+- 🎓 I’m currently Communication and Electronic Student.
 - 💬 Ask me about anything related to Communicatition/Cybersecurity/Python or elearning and selfstudy.
 - 👦 Fun fact: I :heart: :dog:s
 
@@ -10,9 +10,9 @@ This is the place where I start to document some CTFs Writeups 📝
 
 ### 🕷 CTFs WriteUps:
 
-[<img align="left" alt="CTFs | CyberTalents"  width="40px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][CyberTalents WriteUps]
+[<img align="left" alt="CTFs | CyberTalents"  width="100px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][CyberTalents WriteUps]
 
-[<img align="left" alt="CTFs | PicoCTFs" width="40px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]
+[<img align="left" alt="CTFs | PicoCTFs" width="100px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]
 
 <br />
 
