@@ -1,15 +1,14 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I start to document some CTFs Writeups :smile:
+This is the place where I start to document some CTFs Writeups 📝
 
 - 🔭 I’m currently studying Cybersecurity which is really cool :wink:
 - 🌱 I’m currently Communication and Electronic Student.
 - 💬 Ask me about anything related to Communicatition/Cybersecurity/Python or elearning and selfstudy.
-- 📫 How to reach me: [@Awwad](https://www.facebook.com/ahmedkawwad).
-- ⚡ Fun fact: I :heart: :dog:s
+- 👦 Fun fact: I :heart: :dog:s
 
 
 
-### CTFs WriteUps:
+### 🕷 CTFs WriteUps:
 
 [<img align="left" alt="CTFs | CyberTalents"  width="40px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][CyberTalents WriteUps]
 
@@ -18,7 +17,7 @@ This is the place where I start to document some CTFs Writeups :smile:
 <br />
 
 
-### Languages and Tools:
+### 📌Languages and Tools:
 
 <a href="#"> <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
