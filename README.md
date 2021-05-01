@@ -18,9 +18,9 @@ This is the place where I start to document some CTFs Writeups :smile:
 
 ### CTFs WriteUps:
 
-[<img align="left" alt="CTFs | CyberTalents"  width="22px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][CyberTalents WriteUps]
+[<img align="left" alt="CTFs | CyberTalents"  width="22px" src="https://yt3.ggpht.com/ytc/AAUvwnhKZyYgp2wfOO-yu7oSqTxRuvg80lVUfpY6MIa9MQ=s900-c-k-c0x00ffffff-no-rj" />][CyberTalents WriteUps]
 
-[<img align="left" alt="CTFs | PicoCTFs" width="22px" src="https://picoctf.org/img/logos/picoctf-logo-horizontal-white.svg" />][PicoCTFs WriteUps]
+[<img align="left" alt="CTFs | PicoCTFs" width="22px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]
 
 <br />
 
