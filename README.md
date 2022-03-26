@@ -12,7 +12,7 @@ This is the place where I start to document some CTF Writeups 📝
 
 ### 🕷 CTF WriteUps:
 
-[<img align="left" alt="CTFs | CyberTalents"  width="80px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][https://ahmedkawwad.github.io/]
+[<img align="left" alt="CTFs | CyberTalents"  width="80px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][Cybertalents WriteUps]
 
 [<img align="left" alt="CTFs | PicoCTFs" width="80px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]
 
@@ -41,14 +41,15 @@ This is the place where I start to document some CTF Writeups 📝
 
 ### Connect with me:
 
+[<img align="left" alt="ahmed_k_2 | logo"  width="22px" src="https://ahmedkawwad.github.io/images/site/k-icon%20-invert_hu853d0774892b5f84d30746ce0d4103bc_12477_42x0_resize_box_3.png" />][Website]
 [<img align="left" alt="ahmedkawwad | Facebook"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="ahmed-k-awwad | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ahmed_k_2 | Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
-[instagram]: https://instagram.com/ahmed_k_2
-[PicoCTFs WriteUps]:https://github.com/AhmedKAwwad/CTFs/tree/main/PicoCTFs
-[CyberTalents WriteUps]:https://github.com/AhmedKAwwad/CTFs/tree/main/CyberTalents
+[Website]: https://ahmedkawwad.github.io/
+[PicoCTFs WriteUps]:https://ahmedkawwad.github.io/post/writeup/
+[CyberTalents WriteUps]:https://ahmedkawwad.github.io/post/writeup/
 [linkedin]: https://linkedin.com/in/ahmed-k-awwad
 [Facebook]: https://www.facebook.com/ahmedkawwad/
