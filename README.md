@@ -8,19 +8,16 @@ This is the place where I start to document some CTF Writeups 📝
 - 💬 Ask me about anything related to Communicatition/Cybersecurity/Python or elearning and selfstudy.
 - 👦 Fun fact: I :heart: :dog:s
 
-<div class="float-container">
-<div class="float-child">
-<div style="margin-right: 30px;">
+<div style="width: 100%; overflow: hidden;">
+<div style="width: 600px; float: left;" >
 <h2> 🕷 CTF WriteUps:</h2>
- <a href="Blog Writeups"> <img align="left" alt="Writeups" width="55px" src="https://ahmedkawwad.github.io/images/site/k-icon%20-invert_hu853d0774892b5f84d30746ce0d4103bc_12477_42x0_resize_box_3.png" />
+<a href="Blog Writeups"> <img align="left" alt="Writeups" width="55px" src="https://ahmedkawwad.github.io/images/site/k-icon%20-invert_hu853d0774892b5f84d30746ce0d4103bc_12477_42x0_resize_box_3.png" />
 
  </a>
 <!--[<img align="left" alt="CTFs | CyberTalents"  width="80px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit"/>][Cybertalents WriteUps]-->
 <!--[<img align="left" alt="CTFs | PicoCTFs" width="80px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]-->
 </div>
-</div>
-<div class="float-child">
-<div style="margin-right: 80px; align:right">
+<div style="margin-left: 620px;">
 <h2>📌 Languages and Tools:</h2>
  <a href="#"> <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -38,7 +35,6 @@ This is the place where I start to document some CTF Writeups 📝
 </div>
 </div>
 
-</div>
 ### Connect with me:
 
 [<img align="left" alt="ahmed_k_2 | logo"  width="22px" src="https://ahmedkawwad.github.io/images/site/k-icon%20-invert_hu853d0774892b5f84d30746ce0d4103bc_12477_42x0_resize_box_3.png" />][Website]
