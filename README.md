@@ -9,14 +9,14 @@ This is the place where I start to document some CTF Writeups 📝
 - 👦 Fun fact: I :heart: :dog:s
 
 
-
-### 🕷 CTF WriteUps:
 <div style="margin-right: 30px;">
+### 🕷 CTF WriteUps:
 <!--[<img align="left" alt="CTFs | CyberTalents"  width="80px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][Cybertalents WriteUps]-->
 [<img align="left" alt="CTFs | CyberTalents"  width="55px" src="https://ahmedkawwad.github.io/images/site/k-icon%20-invert_hu853d0774892b5f84d30746ce0d4103bc_12477_42x0_resize_box_3.png?w=336&h=336&mode=fit" />][Blog Writeups]
 <!--[<img align="left" alt="CTFs | PicoCTFs" width="80px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]-->
 <br />
  </div>
+<div style="margin-right: 80px;">
 ### 📌 Languages and Tools:
  
 <a href="#"> <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -34,6 +34,8 @@ This is the place where I start to document some CTF Writeups 📝
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </a>
+</div>
+
 <br />
 
 ### Connect with me:
