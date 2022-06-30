@@ -3,8 +3,8 @@
 
 This is the place where I start to document some CTF Writeups 📝
 
-- 🥷 I’m currently studying Cybersecurity which is really cool :wink:
-- 🎓 I’m currently Communication and Electronic Student.
+- I’m currently studying Cybersecurity which is really cool :wink:
+- 🎓 I’m Communication and Electronic Engineer.
 - 💬 Ask me about anything related to Communicatition/Cybersecurity/Python or elearning and selfstudy.
 - 👦 Fun fact: I :heart: :dog:s
 
@@ -13,6 +13,7 @@ This is the place where I start to document some CTF Writeups 📝
 ### 🕷 CTF WriteUps:
 
 [<img align="left" alt="CTFs | CyberTalents"  width="80px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][Cybertalents WriteUps]
+[<img align="left" alt="CTFs | CyberTalents"  width="80px" src="https://ahmedkawwad.github.io/post/" />][Cybertalents WriteUps]
 
 [<img align="left" alt="CTFs | PicoCTFs" width="80px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]
 
