@@ -17,7 +17,7 @@ This is the place where I start to document some CTF Writeups 📝
 <!--[<img align="left" alt="CTFs | CyberTalents"  width="80px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit"/>][Cybertalents WriteUps]-->
 <!--[<img align="left" alt="CTFs | PicoCTFs" width="80px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]-->
 </div>
-<div style="margin-right: 80px;">
+<div style="margin-right: 80px; align:right">
 <h2>📌 Languages and Tools:</h2>
  <a href="#"> <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
