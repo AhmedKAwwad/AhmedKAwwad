@@ -49,9 +49,9 @@ This is the place where I start to document some CTF Writeups 📝
 
 <br />
 
-[Website]: https://ahmedkawwad.github.io/{:target="_blank"}
-[Blog Writeups]: https://ahmedkawwad.github.io/post/{:target="_blank"}
-[PicoCTFs WriteUps]:https://ahmedkawwad.github.io/post/writeup/{:target="_blank"}
-[CyberTalents WriteUps]:https://ahmedkawwad.github.io/post/writeup/{:target="_blank"}
-[linkedin]: https://linkedin.com/in/ahmed-k-awwad{:target="_blank"}
-[Facebook]: https://www.facebook.com/ahmedkawwad/{:target="_blank"}
+[Website]: https://ahmedkawwad.github.io/ {:target="_blank"}
+[Blog Writeups]: https://ahmedkawwad.github.io/post/ {:target="_blank"}
+[PicoCTFs WriteUps]:https://ahmedkawwad.github.io/post/writeup/ {:target="_blank"}
+[CyberTalents WriteUps]:https://ahmedkawwad.github.io/post/writeup/ {:target="_blank"}
+[linkedin]: https://linkedin.com/in/ahmed-k-awwad {:target="_blank"}
+[Facebook]: https://www.facebook.com/ahmedkawwad/ {:target="_blank"}
