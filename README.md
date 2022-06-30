@@ -13,7 +13,7 @@ This is the place where I start to document some CTF Writeups 📝
 ### 🕷 CTF WriteUps:
 
 [<img align="left" alt="CTFs | CyberTalents"  width="80px" src="https://www.arabnet.me/ContentFiles/9064Logo.png?w=336&h=336&mode=fit" />][Cybertalents WriteUps]
-[<img align="left" alt="CTFs | CyberTalents"  width="80px" src="https://ahmedkawwad.github.io/images/site/k-icon%20-invert_hu853d0774892b5f84d30746ce0d4103bc_12477_42x0_resize_box_3.pngw=336&h=336&mode=fit" />][Blog Writeups]
+[<img align="left" alt="CTFs | CyberTalents"  width="80px" src="https://ahmedkawwad.github.io/images/site/k-icon%20-invert_hu853d0774892b5f84d30746ce0d4103bc_12477_42x0_resize_box_3.png?w=336&h=336&mode=fit" />][Blog Writeups]
 
 [<img align="left" alt="CTFs | PicoCTFs" width="80px" src="https://remakelearning.org/wp-content/uploads/2021/03/picoCTF.png" />][PicoCTFs WriteUps]
 
