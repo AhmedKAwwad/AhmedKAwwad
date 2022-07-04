@@ -49,18 +49,12 @@ This is the place where I start to document some CTF Writeups 📝
 <details>
 <summary>📊 Github Stats</summary>
     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber&show_icons=true&locale=en&layout=compact" alt="alexbieber" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedKAwwad&show_icons=true&theme=gotham" alt="AhmedKAwwad | Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbieber&show_icons=true&locale=en" alt="alexbieber" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbieber&" alt="alexbieber" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedKAwwad" alt="AhmedKAwwad | Langs" /></p>
     
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AhmedKAwwad&show_icons=true&theme=gotham" alt="AhmedKAwwad | Stats" /></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber" alt="AhmedKAwwad | Langs" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkawwad&" alt="AhmedKAwwad | streaks " /></p>
+
 
 </details>
 
