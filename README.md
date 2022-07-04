@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm Ahmed Awwad</h1>
 
 
-This is the place where I start to document some CTF Writeups 📝
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedKAwwad&label=Profile%20views&color=0e75b6&style=flat" alt="alexbieber" /> </p>
+
 
 - I’m currently studying Cybersecurity which is really cool :wink:
 - 🎓 I’m Communication and Electronic Engineer.
