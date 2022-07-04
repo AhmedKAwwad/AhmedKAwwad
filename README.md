@@ -49,9 +49,10 @@ This is the place where I start to document some CTF Writeups 📝
 <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AhmedKAwwad&show_icons=true&theme=gotham" alt="AhmedKAwwad | Stats" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber" alt="AhmedKAwwad | Langs" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AhmedKAwwad&show_icons=true&theme=gotham" alt="AhmedKAwwad | Stats" /></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber" alt="AhmedKAwwad | Langs" /></p>
 
 <p align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkawwad&" alt="AhmedKAwwad | streaks " /></p>
 
