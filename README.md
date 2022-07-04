@@ -53,8 +53,9 @@ This is the place where I start to document some CTF Writeups 📝
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber" alt="AhmedKAwwad | Langs" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkawwad&" alt="AhmedKAwwad | streaks " /></p></details>
+<p align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkawwad&" alt="AhmedKAwwad | streaks " /></p>
 
+</details>
 
 <br />
 
