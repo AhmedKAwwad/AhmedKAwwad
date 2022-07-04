@@ -45,6 +45,13 @@ This is the place where I start to document some CTF Writeups 📝
 <!-- [<img align="left" alt="ahmedkawwad | Facebook"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="ahmed-k-awwad | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AhmedKAwwad&show_icons=true&theme=gotham" alt="AhmedKAwwad | Stats" />
+
+</details>
+
 
 <br />
 
