@@ -62,7 +62,7 @@
 <br />
 
 [Website]: https://ahmedkawwad.github.io/
-[Blog Writeups]: https://ahmedkawwad.github.io/post/
+[Blog Writeups]: https://ahmedkawwad.github.io/posts/
 [PicoCTFs WriteUps]:https://ahmedkawwad.github.io/post/writeup/
 [CyberTalents WriteUps]:https://ahmedkawwad.github.io/post/writeup/ 
 [linkedin]: https://linkedin.com/in/ahmed-k-awwad 
