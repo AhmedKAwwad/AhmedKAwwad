@@ -6,7 +6,7 @@
 
 - I’m currently studying Cybersecurity which is really cool :wink:
 - 🎓 I’m Communication and Electronic Engineer.
-- 💬 Ask me about anything related to Communicatition/Cybersecurity/Python or elearning and selfstudy.
+- 💬 Ask me about anything related to Social Engineering/Cybersecurity/Python or elearning and selfstudy.
 - 👦 Fun fact: I :heart: :dog:s
 
 
